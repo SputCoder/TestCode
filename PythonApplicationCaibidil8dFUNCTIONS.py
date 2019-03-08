@@ -18,10 +18,9 @@ def printToScreen(bands):  # bands list is the values being passed
         print(band)       # four spaces or TAB indented to that print is inside 'for loop'
  
     print('Routine in function done.\n') ## \n just new line
-    # this print statement only prints out once as it is not tabbed
-    # in for the for loop
-    # but IS in line with the for loop 
-    # and tabbed within the def (or function)... so operate inside the function
+    # this print statement only prints out once as it is not tabbed in for the FOR loop
+    # but IS.... IN LINE with the FOR LOOP 
+    # and TABBED within the def (or function)... so OPERATES INSIDE the function
 
 ### NOW NEED TO CALL THE FUNCTION TO SEE IT WORKING...
 printToScreen(bands) # function is now called where a list is passed
