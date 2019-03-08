@@ -7,6 +7,6 @@ print('Print to screen')
 message1 = "It's a good" # string
 message2 = " book!"  # THIS IS ANOTHER STRING (TEXT)
 
-message = message1 + message2 # MESSAGE1 AND MESSAGE2 ARE ADDED TOGETHER (concatinated?) TO GIVE THE PRINTED MESSAGE BELOW
+message = message1 + message2 # MESSAGE1 AND MESSAGE2 ARE ADDED TOGETHER (concatenate) TO GIVE THE PRINTED MESSAGE BELOW
 
 print(message)
