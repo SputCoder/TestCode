@@ -6,7 +6,7 @@ print('functions...')
 # ADD A RETURN VALUE TO THE FUNCTION
 
 def categorise_bands( band_name, band_type):  
-    band_category = { 'name': band_name, 'type': band_type }
+    band_category = { 'name': band_name, 'type': band_type }  # this is the form of a DICTIONARY... it's like a list or array
     return(band_category) # GIVES A VALUE TO THE FUNCTION AND RETURNS IT WHEN CALLED
 
 ## FUNCTION RETURNING A DICTIONARY
