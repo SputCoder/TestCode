@@ -17,6 +17,8 @@ def categorise_bands( band_name, band_type):
 ## FUNCTION RETURNING A VALUE
 
 output = categorise_bands('Thin Lizzy', 'Heavy Rock') # THE FUNCTION IS CALLED
+# function returns the value band_category which is equal to band_name + ' category is ' + band_category
+# output is assigned this returned value
 print(output) 
 
 
