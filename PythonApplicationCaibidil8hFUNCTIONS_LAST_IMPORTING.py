@@ -46,4 +46,27 @@ print(output2) # output is in the form of a dictionary... like a list
 print('It is the same outcome.')
 
 
+######## NOTES
+
+## AND IF WANT TO IMORT ALL FUNCTIONS FROM A MODULE THEN CAN USE
+### from function_testing_module import *   ## use the * ... for all
+## and can use output3 = categorise_bands('Thin Lizzy', 'Heavy Rock')
+### no need for 'function_testing_module.'cate...... when calling a function
+
+
+
+## can also use an alias for a module if you need to use module name in the function
+## say,   import function_testing_module as ftm
+
+
+## or can use an alias for a function even
+## from function_testing_module import categorise_bands as cb
+## and use like the following: 
+## output4 = cb('Thin Lizzy', 'Heavy Rock')
+
+
+
+
 print('\n\nScroll to top to view all outputs, if there are many!')
+
+
